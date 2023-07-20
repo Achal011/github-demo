@@ -1,0 +1,4 @@
+this is version one of my project
+i want to make changes to ensure that i learn where it goes from here
+i am having to change it to understand the concept of restagging a file after modifiying it.
+this is being changed further
